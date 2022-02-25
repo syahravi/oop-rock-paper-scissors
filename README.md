@@ -1,8 +1,7 @@
 # Rock Paper Scissors
-
 python-structural:  command-line program 
 
-`41`lines of code.
+`41` lines of code.
 
 This simple command-line program in python shows how you can build a simple a command-line program in python using structural concepts
 such as attributes, classes and methods. 
@@ -36,6 +35,4 @@ Goodbye
 - import random
 
 ## License
-
 This code is open source. So feel free to use, modify, share, download as per your need. I do not take risk or responsibility for your errors or any commercial damage.
-# rock-paper-scissors
