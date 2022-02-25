@@ -1,10 +1,10 @@
 # Rock Paper Scissors
 
-python-structual:  command-line program 
+python-structural:  command-line program 
 
 `41`lines of code.
 
-This simple command-line program in python shows how you can build a simple a command-line program in python using structual concepts
+This simple command-line program in python shows how you can build a simple a command-line program in python using structural concepts
 such as attributes, classes and methods. 
 
 ## How to execute this program  
